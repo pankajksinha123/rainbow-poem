@@ -4,4 +4,7 @@ purple
 red 
 orange
 green
+indigo
 These are the colors of the univorn
+
+pony !!
